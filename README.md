@@ -43,11 +43,4 @@ Feel free to connect with me on GitHub or LinkedIn. Let's collaborate and build 
 
 ---
 
-### Steps to Add This to Your GitHub  
-1. **Create a new repository** with the name **exactly** as your GitHub username (e.g., `AkashdeepSharma`).  
-2. Inside this repo, create a file named `README.md`.  
-3. Copy and paste the above content into the `README.md` file.  
-4. Commit and push the changes.  
-
-Your GitHub profile will now display this as your profile README! 🎉  
 
