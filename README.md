@@ -8,7 +8,7 @@ I am a passionate software developer with strong problem-solving skills and expe
 ## 📚 Education 🎓  
 - 🎓 **Post Graduate Diploma in Advanced Computing** (2024 - 2025) - *C-DAC Bangalore* (**71.7%**)
 - 🎓 **B.Tech in Computer Science & Engineering** (2020 - 2024) - *Lakshmi Narain College of Technology* (**81.6%**)  
-- 🏫 **12th Class ** - *ST. Thomas Convent School,Bhopal* (**70.8%**)  
+- 🏫 12th Class  - *ST. Thomas Convent School,Bhopal* (**70.8%**)  
 
 ---
 
